@@ -1,0 +1,4 @@
+# BEGIN: /Users/gurpreetmukker/Desktop/oneFileRL/.gitignore
+.venv/
+*.pth
+# END: /Users/gurpreetmukker/Desktop/oneFileRL/.gitignore
